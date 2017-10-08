@@ -1,0 +1,6 @@
+nvm::nvm_version: 'v0.33.2'
+nvm::nvm_dir: '/usr/local/nvm'
+nvm::nvm_install_tmp: '/tmp/nvm_install.sh'
+nvm::http_proxy: ~
+nvm::node_version: '6'
+nvm::set_default: true
